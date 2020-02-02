@@ -4,4 +4,4 @@ def get_btc():
     url = 'https://yobit.net/api/2/btc_usd/ticker'
     response = requests.get(url).json()
     price = response['ticker']['last']
-    return str(price) + ' usd'
+    return str(price) + ' usd/1 btc'
