@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 929189302,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 524052055,
+          "is_bot": false,
+          "first_name": "Иван",
+          "last_name": "Ревт",
+          "username": "Vrevt",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 524052055,
+          "first_name": "Иван",
+          "last_name": "Ревт",
+          "username": "Vrevt",
+          "type": "private"
+        },
+        "date": 1580602908,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 929189303,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 524052055,
+          "is_bot": false,
+          "first_name": "Иван",
+          "last_name": "Ревт",
+          "username": "Vrevt",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 524052055,
+          "first_name": "Иван",
+          "last_name": "Ревт",
+          "username": "Vrevt",
+          "type": "private"
+        },
+        "date": 1580604624,
+        "text": "привет"
+      }
+    }
+  ]
+}
